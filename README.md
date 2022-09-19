@@ -8,7 +8,7 @@
         This should look a lil different.
         <br><br>
         Here's a cool picture:
-        <img src="IMG_1067.JPG">
+        <img src="./docs/assets/IMG_1067.JPG">
       </p>
     </div>
   </body>
