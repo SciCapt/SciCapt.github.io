@@ -1,6 +1,10 @@
 <html>
-  <body>
+  <head>
     <link rel="icon" href="./docs/assets/IMG_1067.JPG">
+  </head>
+  
+  <body>
+    
     <div>
     
       <h1>
