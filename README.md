@@ -1,10 +1,4 @@
 <html>
-  <head>
-    <title>
-    Personal Webpage
-    </title>
-  </head>
-
   <body>
     <div>
       <h1>
