@@ -1,6 +1,11 @@
 <html>
+  <head>
+    <title>
+    Personal Webpage
+    </title>
+  </head>
+
   <body>
-    <title>Personal Webpage</title>
     <div>
       <h1>
         <em>This</em> is a <strong>test!</strong>
