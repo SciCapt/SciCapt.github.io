@@ -1,5 +1,6 @@
 <html>
   <body>
+    <title>Personal Webpage</title>
     <div>
       <h1>
         <em>This</em> is a <strong>test!</strong>
