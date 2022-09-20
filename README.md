@@ -20,7 +20,6 @@
       <br>
       
       <h1> Other Links </h1>
-      <br>
       <p>
         Please feel free to contact me and/or check out the following!
         Email: svs.2k15@gmail.com
