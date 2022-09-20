@@ -8,6 +8,7 @@
     <div>
     <--! Main section for bio/intro -->
       <h1> About Me </h1>
+      <img src="./docs/assets/IMG_1067.JPG" width="420" height="500">
       <br>
       <h2> Hello! </h2>
       <p>
@@ -16,7 +17,7 @@
         Physics allows me to appreciate why something happens, but I also want to know the "what" that comes from engineering showing me what it takes to make something work. I've "given in" to this idea in the recent years, and from it, have gained a lot. A lot, but not all, of this gain I get to show off in the form of my hobby projects. On the pages for those, you will find various coding projects, thought experiments, "blueprints", etc. I've made. Also I've begun a "captain's log" or blog of what I've most recently worked on, though schooling of course limits how much I contribute to this.
       </p>
       
-      <br><br>
+      <br>
       
       <h1> Other Links </h1>
       <br>
@@ -24,11 +25,11 @@
         Please feel free to contact me and/or check out the following!
         Email: svs.2k15@gmail.com
         <br>
-        My LinkedIn Profile: <a href="https://www.linkedin.com/in/sean-saliga/">Sean Saliga</a> 
+        My LinkedIn Profile: <a href="https://www.linkedin.com/in/sean-saliga/" target="_blank">Sean Saliga</a> 
         <br>
-        My GitHub Page: <a href="https://github.com/SciCapt">SciCapt</a> 
+        My GitHub Page: <a href="https://github.com/SciCapt" target="_blank">SciCapt</a> 
         <br>
-        Copy of My Resume: <a href="./docs/assets/IMG_1067.JPG" download>
+        Copy of My Resume: <a href="./docs/assets/IMG_1067.JPG" download>Resume Link</a>
       </p>
         
     </div>
