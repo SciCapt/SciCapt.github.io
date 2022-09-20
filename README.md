@@ -21,12 +21,14 @@
       <h1> Other Links </h1>
       <br>
       <p>
-        Please feel free to contact me and/or check out my other profiles!
+        Please feel free to contact me and/or check out the following!
         Email: svs.2k15@gmail.com
         <br>
         My LinkedIn Profile: <a href="https://www.linkedin.com/in/sean-saliga/">Sean Saliga</a> 
         <br>
         My GitHub Page: <a href="https://github.com/SciCapt">SciCapt</a> 
+        <br>
+        Copy of My Resume: <a href="./docs/assets/IMG_1067.JPG" download>
       </p>
         
     </div>
