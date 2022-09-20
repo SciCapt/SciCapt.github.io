@@ -6,7 +6,6 @@
   <body>
     
     <div>
-    <--! Main section for bio/intro -->
       <h1> About Me </h1>
       <img src="./docs/assets/IMG_1067.JPG" width="420" height="500">
       <br>
