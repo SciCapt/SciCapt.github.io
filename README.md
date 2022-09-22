@@ -20,8 +20,8 @@
       
       <h1> Other Links </h1>
       <p>
-        Please feel free to contact me and/or check out the following!
-        <br>
+        Please feel free to contact me and view my other profiles!
+        <br><br>
         Email: svs.2k15@gmail.com
         <br>
         My LinkedIn Profile: <a href="https://www.linkedin.com/in/sean-saliga/" target="_blank">Sean Saliga</a> 
