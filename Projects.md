@@ -19,7 +19,7 @@
       A fully custom-made chess engine featuring a few chess Ais of different capabilities.
     </p>
     
-    <br><br>
+    <br><br><br><br><br><br><br><br>
     
     <h1>Custom "Rotary" Engine Design</h1>
     <p>
