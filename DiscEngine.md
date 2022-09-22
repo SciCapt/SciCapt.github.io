@@ -11,9 +11,16 @@
   <h1>Disc/Rotary Engine</h1>
   <p>
     Hey look its a solidworks thing I made! much wow! very cool!
-    <img src=".docs/assets/RV2.JPG">
+    <br>
+    <img src="./docs/assets/RV2.JPG">
+    <br>
+    
+    <br>
+    
     here it is from another angle!
-    <img src=".docs/assets/RV3.JPG">
+    <br>
+    <img src="./docs/assets/RV3.JPG">
+    <br>
   </p>
   
 </body>
