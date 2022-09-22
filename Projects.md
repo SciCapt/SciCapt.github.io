@@ -23,7 +23,7 @@
     <h1>Custom "Rotary" Engine Design</h1>
     <p>
       <br>
-      <img src="">
+      <img src="./docs/assets/RV1.JPG">
       Oh yeah and im a god at 3d modeling (not really)
     </p>
 
