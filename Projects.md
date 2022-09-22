@@ -6,16 +6,16 @@ permalink: /Projects
 <body>
 
   <div>
+    <h1>Hobby Projects</h1>
     <p>
-      [projects and stuff explanation]
+      Below are some of the various hobby projects I've worked on over time, in no specific order. If you want to see more about a specific project, just click on the image to go to the page for that project.
       <br><br>
     </p>
     
     <h1>Chess and Chess AIs in Python</h1>
     <p>
-      <br>
-      <img src="./docs/assets/Chess1.JPG">
-      SO basically im a 250 elo in chess (pog) and i made +100000 elo AIs lmao.
+      <a href="https://scicapt.github.io/Projects/Chess"> <img src="./docs/assets/Chess1.JPG" width="420" height="370"> </a>
+      A fully custom-made chess engine featuring a few chess Ais of different capabilities.
     </p>
     
     <br><br>
