@@ -23,7 +23,6 @@
     
     <h1>Custom "Rotary" Engine Design</h1>
     <p>
-      <br>
       <a href="https://scicapt.github.io/DiscEngine"><img src="./docs/assets/RV1.JPG" width="420" height="380" align="right" style="margin:10px 10px"></a>
       <br>
       The result of a few iterations of thought experiements, calculations, and 3D models.
