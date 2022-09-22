@@ -13,7 +13,7 @@
     Hey look its a solidworks thing I made! much wow! very cool!
     <img src=".docs/assets/RV2.JPG">
     here it is from another angle!
-    <img srv=".docs/assets/RV3.JPG">
+    <img src=".docs/assets/RV3.JPG">
   </p>
   
 </body>
