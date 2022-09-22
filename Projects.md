@@ -29,5 +29,3 @@
       Oh yeah and im a god at 3d modeling (not really)
     </p>
 
-</body>
-</html>
