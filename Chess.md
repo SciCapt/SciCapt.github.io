@@ -15,7 +15,7 @@
     Luckily around the same time, I had played around with using the Windows command prompt to display a black and white screen based on a certain array/image given to it. An example of this is given below where the GUI takes a mathematical expression and then graphs it in the first quadrant:
     <br>
     <img src="./docs/assets/CmdSineWave.JPG">
-    <br>
+    <br><br>
     By then making the sprites of the chess board and pieces using this same array definition idea, I could instead stich them onto a larger array and print the whole thing:
     <br>
     <img src="./docs/assets/Chess2.JPG">
