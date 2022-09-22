@@ -1,6 +1,6 @@
 layout: page
 title: "Hobby Projects"
-permalink: /Projects/
+permalink: /Projects
 
 <html>
 <body>
