@@ -12,8 +12,12 @@
   <p>
     This project technically started in April of 2022, but used a GUI based on the MatLab plotting for python. There were multiple reasons for why that was a nightmare to work with, so I instead opted to make my own GUI more or less from scratch.
     <br><br>
-    Luckily around the same time, I had played around with using the Windows command prompt to display a black and white screen based on a certain array/image given to it. An example of this is given below where an equation is given to the code which is then graphed, in this case, that is a modified sine wave:
+    Luckily around the same time, I had played around with using the Windows command prompt to display a black and white screen based on a certain array/image given to it. An example of this is given below where the GUI takes a mathematical expression and then graphs it in the first quadrant:
+    <br>
     <img src="./docs/assets/CmdSineWave.JPG">
-    By then making the sprites of the chess board and pieces using this same array definition idea, I could instead then print them onto a larger array, i.e. the chess board:
-    <img src="./docs/assets/PawnPromotion.JPG">
+    <br>
+    By then making the sprites of the chess board and pieces using this same array definition idea, I could instead stich them onto a larger array and print the whole thing:
+    <br>
+    <img src="./docs/assets/Chess2.JPG">
+    <br>
   </p>
