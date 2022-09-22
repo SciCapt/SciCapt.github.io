@@ -1,5 +1,5 @@
 layout: page
-title: "Hobby Projects"
+title: "Projects"
 permalink: /Projects
 
 <html>
