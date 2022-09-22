@@ -1,10 +1,10 @@
-layout: page
-title: "Projects"
-permalink: /Projects
-
 <html>
 <body>
 
+  <h2>
+    <a href="https://scicapt.github.io/"> Back To Homepage </a>
+  </h2>
+  
   <div>
     <h1>Hobby Projects</h1>
     <p>
