@@ -20,7 +20,7 @@
     
     <br><br><br><br><br>
     
-    <a href="https://scicapt.github.io/DiscEngine"> <h1>Custom "Rotary" Engine Design</h1> </a>
+    <a href="https://scicapt.github.io/DiscEngine"> <h1>Custom Disc Engine Design</h1> </a>
     <p>
       <a href="https://scicapt.github.io/DiscEngine"><img src="./docs/assets/RV1.JPG" width="420" height="380" align="right" style="margin:10px 10px"></a>
       Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something 
