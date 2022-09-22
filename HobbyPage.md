@@ -14,7 +14,7 @@ permalink: /Projects/
     <h1>Chess and Chess AIs in Python</h1>
     <p>
       <br>
-      <img src="">
+      <img src="./docs/assets/Chess1.JPG">
       SO basically im a 250 elo in chess (pog) and i made +100000 elo AIs lmao.
     </p>
     
