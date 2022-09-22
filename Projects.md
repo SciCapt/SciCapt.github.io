@@ -14,17 +14,17 @@
     
     <h1>Chess and Chess AIs in Python</h1>
     <p>
-      <a href="https://scicapt.github.io/Chess"> <img src="./docs/assets/Chess1.JPG" width="420" height="380" align="left" style="margin:10px 0px"> </a>
+      <a href="https://scicapt.github.io/Chess"> <img src="./docs/assets/Chess1.JPG" width="420" height="380" align="left" style="margin:10px 10px"> </a>
       <br>
       A fully custom-made chess engine featuring a few chess Ais of different capabilities.
     </p>
     
-    <br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br>
     
     <h1>Custom "Rotary" Engine Design</h1>
     <p>
       <br>
-      <a href="https://scicapt.github.io/DiscEngine"><img src="./docs/assets/RV1.JPG" width="420" height="380" align="right" style="margin:10px 0px"></a>
+      <a href="https://scicapt.github.io/DiscEngine"><img src="./docs/assets/RV1.JPG" width="420" height="380" align="right" style="margin:10px 10px"></a>
       <br>
       The result of a few iterations of thought experiements, calculations, and 3D models.
     </p>
