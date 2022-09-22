@@ -15,6 +15,7 @@
     <h1>Chess and Chess AIs in Python</h1>
     <p>
       <a href="https://scicapt.github.io/Chess"> <img src="./docs/assets/Chess1.JPG" width="420" height="370"> </a>
+      <br>
       A fully custom-made chess engine featuring a few chess Ais of different capabilities.
     </p>
     
@@ -24,6 +25,7 @@
     <p>
       <br>
       <a href="https://scicapt.github.io/DiscEngine"><img src="./docs/assets/RV1.JPG"></a>
+      <br>
       Oh yeah and im a god at 3d modeling (not really)
     </p>
 
