@@ -6,22 +6,20 @@
   <body>
     
     <div>
-      <h1> TL;DR - Resume, Links, Etc. <h1>
+      <h1> TL;DR Section </h1>
+      <h2> Resume & Navigation </h2>
       <p>
-        Email: svs.2k15@gmail.com
+        Link to my <a href="https://github.com/SciCapt/Resume">Resume Page</a>
         <br>
-        Link to <a href="https://github.com/SciCapt/Resume">Resume Page</a>
         Or Download a PDF Copy: <a href="./docs/assets/Resume.pdf" download>Resume PDF Download</a>
         <br>
-        My LinkedIn Profile: <a href="https://www.linkedin.com/in/sean-saliga/" target="_blank">Sean Saliga</a> 
-        <br>
-        My GitHub Page: <a href="https://github.com/SciCapt" target="_blank">SciCapt</a> 
+        <a href="https://github.com/SciCapt/Projects"> Hobby Projects Page </a>
       </p>
       
       <br><br>
     
       <h1> About Me </h1>
-      <img src="./docs/assets/ProfilePic.JPG" width="690" height="420">
+      <img src="./docs/assets/ProfilePic.JPG" width="300" height="600">
       <br>
       <h2> Hello! </h2>
       <p>
