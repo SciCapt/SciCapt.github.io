@@ -1,6 +1,6 @@
 <html>
   <head>
-    <link rel="icon" href="./docs/assets/IMG_1067.JPG">
+    <link rel="icon" href="./docs/assets/Atom1.JPG">
   </head>
   
   <body>
