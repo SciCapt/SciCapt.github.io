@@ -10,7 +10,7 @@
       <p>
         View my resume on my <a href="https://scicapt.github.io/Resume">Resume Page</a>
         
-        <br><br>
+        <br>
         
         To view the projects I reference in my resume, go to the 
         <a href="https://scicapt.github.io/Projects"> Projects Page </a>
