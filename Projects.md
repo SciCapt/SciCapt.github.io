@@ -5,6 +5,8 @@
     <h1> Navigation </h1>
     <p>
       <a href="https://scicapt.github.io"> Homepage </a>
+      <br>
+      <a href="https://scicapt.github.io/Resume">Resume Page</a>
     </p>
   </div>
   
