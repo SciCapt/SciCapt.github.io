@@ -1,13 +1,16 @@
 <html>
 <body>
 
-  <h2>
-    <a href="https://scicapt.github.io/Projects">Back To Projects</a>
-  </h2>
-  <h3>
-    <a href="https://scicapt.github.io/">Back To Homepage</a>
-  </h3>
+  <div>
+    <h1> Navigation </h1>
+    <p>
+      <a href="https://github.com/SciCapt"> Homepage </a>
+      <br>
+      <a href="https://github.com/SciCapt/Projects"> Projects Page </a>
+    </p>
+  </div>
   
+  <div>
   <h1>Disc/Rotary Engine</h1>
   <p>
     This concept started in one of my many journals where I write down various ideas I have. This is actually the fifth iteration of a more radial-based engine design I've tried. Here's the original picture from my notebook:
@@ -25,6 +28,4 @@
     <img src="./docs/assets/RV3.JPG">
     <br>
   </p>
-  
-</body>
-</html>
+  </div>
