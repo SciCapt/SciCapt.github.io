@@ -1,9 +1,12 @@
 <html>
 <body>
 
-  <h2>
-    <a href="https://scicapt.github.io/"> Back To Homepage </a>
-  </h2>
+  <div>
+    <h1> Navigation </h1>
+    <p>
+      <a href="https://github.com/SciCapt"> Homepage </a>
+    </p>
+  </div>
   
   <div>
     <h1>Hobby Projects</h1>
