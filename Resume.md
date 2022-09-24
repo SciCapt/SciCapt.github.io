@@ -12,6 +12,6 @@
     <div>
       <h1> Resume: </h1>
       <p>
-        <embed src="./docs/assets/Resume.pdf" width="800px" height="1140px" style="max-width:auto;height:100%"/>
+        <embed src="./docs/assets/Resume.pdf" width="800px" height="1140px" style="max-width:auto"/>
       </p>
     </div>
