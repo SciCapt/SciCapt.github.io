@@ -1,6 +1,6 @@
 <html>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=0">
   <body>
 
     <div>
@@ -15,7 +15,7 @@
     <div>
       <h1> Resume: </h1>
       <p>
-        View it below, or if easier, <a href="./docs/assets/Resume1.pdf" download>Download a Copy Here</a>
+        View it below or <a href="./docs/assets/Resume1.pdf" download>Download a Copy Here</a>
         <br><br>
       </p>
         <iframe src="./docs/assets/Resume1.pdf#view=fitH" height="1140px" width="100%" />
