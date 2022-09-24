@@ -14,6 +14,6 @@
       <p>
         View it below, or if needed, <a href=".docs/assets/Resume.pdf" download=".docs/assets/Resume.pdf">Download a Copy Here</a>
         <br>
-        <iframe src="./docs/assets/Resume.pdf" width="800px" height="1140px" style="max-width:auto"></iframe>
+        <iframe src="./docs/assets/Resume.pdf" width="100%" height=100%>
       </p>
     </div>
