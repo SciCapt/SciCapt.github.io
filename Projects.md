@@ -4,7 +4,7 @@
   <div>
     <h1> Navigation </h1>
     <p>
-      <a href="https://github.com/SciCapt"> Homepage </a>
+      <a href="https://scicapt.github.io"> Homepage </a>
     </p>
   </div>
   
