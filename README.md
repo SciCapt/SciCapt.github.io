@@ -29,9 +29,9 @@
     
       <h1> About Me </h1>
       <p>
-      <img src="./docs/assets/ProfilePic.JPG" style="vertical-align:top;margin:0px 15px" width="400" height="500" align="left">
+      <img src="./docs/assets/ProfilePic.JPG" class="img-responsive" style="vertical-align:top;margin:0px 15px" width="400" height="500" align="left">
       <h2> Hello! </h2>
-        My name is Sean Saliga and I am currently a Physics student at the University of Florida with an expected graduation of May 2023. The skills I mostly take pride in, as mentioned in my <a href=".docs/assets/Resume.pdf" download>resume</a>, are coding in Python, my understanding of circuits, and my ability to work with other people. If you're interested, please feel free to read below about my interests and hobbies!
+        My name is Sean Saliga and I am currently a Physics student at the University of Florida with an expected graduation of May 2023. The skills I mostly take pride in, as mentioned in my <a href="https://scicapt.github.io/Resume">resume</a>, are coding in Python, my understanding of circuits, and my ability to work with other people. If you're interested, please feel free to read below about my interests and hobbies!
         <br><br>
         When I first went into physics in 2020, it was because I wanted to follow the traditional route earning a PhD and continuing into research. Since then, I've had a few opportunities (and inspirations, thanks Tony Stark) that have helped me figure out I'm meant more for R&D environments. For example, the idea of working on the latest technologies ike ion engines, fusion power, etc. sounds like what I'd do in my garage for fun.
         <br><br>
