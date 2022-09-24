@@ -1,13 +1,16 @@
 <html>
 <body>
 
-  <h2>
-    <a href="https://scicapt.github.io/Projects"> Back To Projects </a>
-  </h2>
-  <h3>
-    <a href="https://scicapt.github.io/"> Back To Homepage </a>
-  </h3>
+  <div>
+    <h1> Navigation </h1>
+    <p>
+      <a href="https://github.com/SciCapt"> Homepage </a>
+      <br>
+      <a href="https://github.com/SciCapt/Projects"> Projects Page </a>
+    </p>
+  </div>
   
+  <div>
   <h1>Chess In Python</h1>
   <p>
     This project technically started in April of 2022, but used a GUI based on the MatLab plotting for python. There were multiple reasons for why that was a nightmare to work with, so I instead opted to make my own GUI more or less from scratch.
@@ -21,3 +24,4 @@
     <img src="./docs/assets/Chess2.JPG">
     <br>
   </p>
+  </div>
