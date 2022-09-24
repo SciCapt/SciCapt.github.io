@@ -15,8 +15,11 @@
     <div>
       <h1> Resume: </h1>
       <p>
-        View it below, or if on mobile, <a href=".docs/assets/Resume.pdf" download="Resume.pdf">Download a Copy Here</a>
+        View it below, or if on mobile, <a href=".docs/assets/Resume.pdf" download>Download a Copy Here</a>
         <br><br>
       </p>
         <iframe src="./docs/assets/Resume.pdf" width="100%" height=1140px>
     </div>
+
+  </body>
+</html>
