@@ -1,6 +1,6 @@
 <html>
   <head>
-    <link rel="icon" href="./docs/assets/Atom1.JPG">
+    <link rel="icon" href="./docs/assets/Atom2.JPG">
   </head>
   
   <body>
@@ -8,15 +8,13 @@
     <div>
       <h1> At A Glance </h1> <h2> Resume and Page Navigation </h2>
       <p>
-        View my resume on my <a href="https://scicapt.github.io//Resume">Resume Page</a> or <a href=".docs/assets/Resume.pdf" download> Download a Copy </a>
+        View my resume on my <a href="https://scicapt.github.io/Resume">Resume Page</a> or <a href=".docs/assets/Resume.pdf" download> Download a Copy </a>
         
         <br><br>
         
         To view the projects I reference in my resume, go to this page: 
-        <a href="https://scicapt.github.io//Projects"> Projects Page </a>
+        <a href="https://scicapt.github.io/Projects"> Projects Page </a>
       </p>
-      
-      <br>
       
       <h2> Contact and Other Profiles </h2>
       <p>
@@ -26,8 +24,8 @@
         <br>
         Email: svs.2k15@gmail.com
       </p>        
-      
-      <br><br>
+    
+      <br>
     
       <h1> About Me </h1>
       <img src="./docs/assets/ProfilePic.JPG" width="500" height="650">
