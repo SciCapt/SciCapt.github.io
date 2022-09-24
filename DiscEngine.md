@@ -4,9 +4,9 @@
   <div>
     <h1> Navigation </h1>
     <p>
-      <a href="https://github.com/SciCapt"> Homepage </a>
+      <a href="https://scicapt.github.io"> Homepage </a>
       <br>
-      <a href="https://github.com/SciCapt/Projects"> Projects Page </a>
+      <a href="https://scicapt.github.io/Projects"> Projects Page </a>
     </p>
   </div>
   
