@@ -36,6 +36,6 @@
     <a href="https://scicapt.github.io/Radio"> <h1>Custom Radio Circuit</h1> </a>
     <p>
       <a href="https://scicapt.github.io/Radio"><img src="./docs/assets/Radio1.JPG" width="420" height="380" align="right" style="margin:0px 10px"></a>
-      This project was completed as a final project for a physics lab class I took early in 2022. For this project, we were allowed to independently choose what we wanted the circuit to do. I have experimented with many kind of circuits before, thanks to the electrical engineering tools of my own I have, but I haven't ever tried a radio. This project satisfies a few goals I had -- one, to see how fast of an oscilator I could make from my own skills and two, to use that oscilator to make a morse code-style transmitter and reciever.
+      This project was completed as a final project for a physics lab class I took early in 2022. For this project, we were allowed to independently choose what we wanted the circuit to do. I have experimented with many kinds of circuits before, thanks to the electrical engineering tools of my own I have, but I haven't ever tried a radio. This project satisfies a few goals I had -- one, to see how fast of an oscillator I could make from my skills, and two, to use that oscillator to make a morse code-style transmitter and reciever.
     </p>
 
