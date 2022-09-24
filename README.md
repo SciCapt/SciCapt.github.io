@@ -23,6 +23,8 @@
         LinkedIn Profile: <a href="https://www.linkedin.com/in/sean-saliga/" target="_blank"> Sean Saliga </a>
         <br>
         GitHub Profile: <a href="https://github.com/SciCapt" target="_blank"> SciCapt </a>
+        <br>
+        Email: svs.2k15@gmail.com
       </p>        
       
       <br><br>
