@@ -12,7 +12,7 @@
         
         <br><br>
         
-        To view the projects I reference in my resume, go to this page: 
+        To view the projects I reference in my resume, go to the 
         <a href="https://scicapt.github.io/Projects"> Projects Page </a>
       </p>
       
@@ -27,11 +27,11 @@
     
       <br>
     
-      <h1> About Me </h1>
-      <img src="./docs/assets/ProfilePic.JPG" width="500" height="650">
-      <br>
-      <h2> Hello! </h2>
+
       <p>
+      <img src="./docs/assets/ProfilePic.JPG" style="vertical-align:top;margin:0px 15px" width="400" height="500" align="left">
+      <h1> About Me </h1>
+      <h2> Hello! </h2>
         My name is Sean Saliga and I am currently a Physics student at the University of Florida with an expected graduation of May 2023. I first went into physics in 2020, it was because I wanted to follow the traditional route of getting a PhD and continuing into research. Though since then, I've had a few opportunities (and inspirations, thanks Tony Stark) that have helped me figure out I'm meant for R&D environments more so. For example, the idea of working on the latest technologies ike ion engines, fusion power, etc. sounds like what I'd do for fun.
         <br><br>
         Physics allows me to appreciate why something happens, but I also want to know the "what" that comes from engineering showing me what it takes to make something work. I've realized this idea in the recent years, and from it, have gained a lot. A lot of what I've gained I get to show off in the form of my <a href="https://scicapt.github.io/Projects">hobby projects</a>. On the page for those, you will find various coding projects, thought experiments, "blueprints", etc. I've made. 
