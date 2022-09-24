@@ -19,17 +19,23 @@
     
     <a href="https://scicapt.github.io/Chess"> <h1>Chess and Chess AIs in Python</h1> </a>
     <p>
-      <a href="https://scicapt.github.io/Chess"> <img src="./docs/assets/Chess1.JPG" width="420" height="380" align="left" style="margin:10px 10px"> </a>
-      Chess and chess and maybe more about chess andwhooChess and chess and maybe more about chess andwhooChess and chess and maybe more about chess andwhooChess and chess and maybe more about chess andwhooChess and chess and maybe more about chess andwhooChess and chess and maybe more about chess andwhooChess and chess and maybe more about chess andwhooChess and chess and maybe more about chess andwhoo
+      <a href="https://scicapt.github.io/Chess"> <img src="./docs/assets/Chess1.JPG" width="420" height="380" align="left" style="margin:0px 10px"> </a>
+      Chess
     </p>
     
     <br><br><br><br><br>
     
     <a href="https://scicapt.github.io/DiscEngine"> <h1>Custom Disc Engine Design</h1> </a>
     <p>
-      <a href="https://scicapt.github.io/DiscEngine"><img src="./docs/assets/RV1.JPG" width="420" height="380" align="right" style="margin:10px 10px"></a>
-      Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something Engineering or something 
+      <a href="https://scicapt.github.io/DiscEngine"><img src="./docs/assets/RV1.JPG" width="420" height="380" align="right" style="margin:0px 10px"></a>
+      Engine
     </p>
     
     <br><br><br><br><br><br><br><br>
+    
+    <a href="https://scicapt.github.io/Radio"> <h1>Custom Radio Circuit</h1> </a>
+    <p>
+      <a href="https://scicapt.github.io/Radio"><img src="./docs/assets/Radio1.JPG" width="420" height="380" align="right" style="margin:0px 10px"></a>
+      Radio
+    </p>
 
