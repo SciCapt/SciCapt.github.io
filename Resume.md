@@ -12,6 +12,7 @@
     <div>
       <h1> Resume: </h1>
       <p>
+        View it below, or <a href=".docs/assets/Resume.pdf" download="Resume.pdf">Download a Copy</a>
         <embed src="./docs/assets/Resume.pdf" width="800px" height="1140px" style="max-width:auto"/>
       </p>
     </div>
