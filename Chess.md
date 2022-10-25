@@ -34,7 +34,7 @@
     <br><br>
     This better form of AI is #'s 6-9 in the chess code on my GitHub. Each finds some small way to work better, with of course #9 working the best. Until I better optimize the code, they do take some time to calculate each move. Originally they took ~30 seconds at the start of the game but got down to ~1-2 seconds about 10-15 moves into the game. With some recent optimizations, I was able to bring those numbers down by about half, with hopefully even better results soon!
     <br><br>
-    It would be silly to try to summarize everything the GitHub page talks about, so if you've made it this far, please feel free to check out my summary of updates in the Releases section. I've made some more recent additions (such as said speed optimzations, a new AI design, etc.) that are yet to be updated on the page, but once it's all organized it will be updated.
+    It would be silly to try to summarize everything the GitHub page talks about, so if you've made it this far, please feel free to check out my summary of updates in the <a href="https://github.com/SciCapt/Chess_Completed/releases">Releases</a> section. I've made some more recent additions (such as said speed optimzations, a new AI design, etc.) that are yet to be updated on the page, but once it's all organized it will be updated.
     
   </p>
   </div>
