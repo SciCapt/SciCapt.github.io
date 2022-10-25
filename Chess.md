@@ -26,7 +26,7 @@
     <br>
     <img src="./docs/assets/Chess2.JPG">
     <br><br>
-    There's a lot of work that then went into the code to actually allow for generating the legal moves given a board position, how to allow the player to move pieces, correctly checking for checkmates, etc. The most interesting part was figuring out how to allow using the mouse for selecting pieces to move. Weeding out all of the possible bugs required *lots* of game play testing over time. It was about June/July by the time I was happy with how it was. But with that done, it was time to make some AIs to play against.
+    There's a lot of work that then went into the code to actually allow for generating the legal moves given a board position, how to allow the player to move pieces, correctly checking for checkmates, etc. The most interesting part was figuring out how to allow using the mouse for selecting pieces to move. Weeding out all of the possible bugs required *lots* of game play testing over time. It was probably May by the time I was happy with how it was. But with that done, it was time to make some AIs to play against.
     <br><br>
     The first AI, "Bob", was a good test, and just selected a random move from all its legal moves. Over time, I put more thought into each AI, and kept finding better ways to make the next one. One of my recent designs works rather well for having only a few simple rules, and was the first AI to be able to actually find checkmates well:
     <br>
