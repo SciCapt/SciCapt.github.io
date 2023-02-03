@@ -22,15 +22,11 @@
     There were a few pages where I sketched ideas and tried to figure out the general operation of the engine, and attempted to do some torque calculations for various types of fuel. Not sure how much of that was correct looking back on it.
     I then realized the only reasonable way I could test this design (besides the math) was to make a 3D model and print it. So for this, I learned the basics behind parts and assemblies in SolidWorks (which I was able to use thanks to my school's free cloud app/library usage) and put together the following basic design:
     <br><br>
-    Viewing it from the left slightly:
-    <br>
     <img src="./docs/assets/RV2.JPG">
-    <br>
-    Viewing it from the right slightly:
-    <br>
+    <br><br>
     <img src="./docs/assets/RV3.JPG">
     <br><br>
-    This was a decent starting place which I then expanded upon to make the assembly:
+    This was an okay starting place, but it was still quite clearly a general idea, nothing I could actually make and expect to work. I spent a bit more time on SolidWorks, and figuring out what would be reasonable and possible to put together and got to the following design:
     <br><br>
     <img src="./docs/assets/RVbAssembly1.JPG">
     <br><br>
@@ -38,7 +34,7 @@
     <br><br>
     <img src="./docs/assets/RVbAssembly3.JPG">
     <br><br>
-    I was quite happy with this design, but actually putting this together took quite some time, as I only had access to SolidWorks through my school's cloud software program. I was certainly grateful for having that, but the slowness of the response time was just too slow for me. So I moved to TinkerCad and just remade the whole thing pretty quickly in a day:
+    I was quite happy with this design, but actually putting this together took quite some time, as I only had access to SolidWorks through my school's cloud software program. I was certainly grateful for having that, but SoildWorks was rather lethargic to use over the internet in this way, so I moved to TinkerCad and just remade the whole thing pretty quickly in a day:
     <br><br>
     <img src="./docs/assets/RVbAssembly4.JPG">
     <br><br>
