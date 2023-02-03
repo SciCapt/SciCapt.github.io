@@ -15,7 +15,7 @@
   <div>
   <h1>Disc/Rotary Engine</h1>
   <p>
-    This concept started in one of my many journals where I write down fun ideas I have. This is actually the fifth iteration of a more radial-based engine design I've tried. Here's a page from that notebook where I was initially drafting the idea:
+    This concept started in one of my many journals where I write down fun ideas I have. This is actually the fifth iteration of a more radial-based engine design I've tried. Here's a page from that notebook where I was drafting the idea:
     <br><br>
     <img src="./docs/assets/RvNotebook.JPG">\
     <br><br>
