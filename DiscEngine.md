@@ -28,6 +28,19 @@
     Viewing it from the right slightly:
     <br>
     <img src="./docs/assets/RV3.JPG">
-    <br>
+    <br><br>
+    This was a decent starting place which I then expanded upon to make the assembly:
+    <br><br>
+    <img src=".docs/assets/RVbAssembly1.png">
+    <br><br>
+    <img src=".docs/assets/RVbAssembly2.png">
+    <br><br>
+    <img src=".docs/assets/RVbAssembly3.png">
+    <br><br>
+    I was quite happy with this design, but actually putting this together took quite some time, as I only had access to SolidWorks through my school's cloud software program. I was certainly grateful for having that, but the slowness of the response time was just too slow for me. So I moved to TinkerCad and just remade the whole thing pretty quickly in a day:
+    <br><br>
+    <img src=".docs/assets/RVbAssembly4.png">
+    <br><br>
+    While some small details like the screw portion I wanted to use to connect the two ends of the shaft together didn't quite work out, the overall design did fit together quite nicely. Note how the sides were either pushed down or further out from the disks, this helped to make a better 'sleeve' to keep the air inside between the disks. I ended up making a 3D print of this design and it worked great! I used a air can in the first test just to check that it was properly spinning and such, and it sounded like a true engine spinning up much more thna I anticipated!
   </p>
   </div>
