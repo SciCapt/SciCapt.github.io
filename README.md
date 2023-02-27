@@ -22,7 +22,7 @@
         <br>
         GitHub Profile: <a href="https://github.com/SciCapt" target="_blank"> SciCapt </a>
         <br>
-        TestPyPI Profile: <a href="https://test.pypi.org/user/SciCapt/" target="_blank"> SciCapt </a>
+        PyPI Profile: <a href="https://pypi.org/user/SciCapt/" target="_blank"> SciCapt </a>
         <br>
         Email: svs.2k15@gmail.com
       </p>        
