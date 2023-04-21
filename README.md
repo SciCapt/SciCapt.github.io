@@ -31,7 +31,6 @@
     <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="Medium" data-theme="light" data-type="HORIZONTAL" data-vanity="sean-saliga" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/sean-saliga?trk=profile-badge">Sean Saliga</a></div> -->
     <br>
   </p>
-  <br>
   <h1> About Me </h1>
   <p>
   <img src="./docs/assets/ProfilePic.JPG" class="img-responsive" style="vertical-align:top;margin:0px 15px 10px 5px;max-width: 100%; height: auto;" width="300" align="left">
