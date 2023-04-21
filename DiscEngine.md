@@ -22,10 +22,8 @@
     There were a few pages where I sketched ideas and tried to figure out the general operation of the engine, and attempted to do some torque calculations for various types of fuel. Not sure how much of that was correct looking back on it.
     I then realized the only reasonable way I could test this design (besides the math) was to make a 3D model and print it. So for this, I learned the basics behind parts and assemblies in SolidWorks (which I was able to use thanks to my school's free cloud app/library usage) and put together the following basic design:
     <br><br>
-    <img src="./docs/assets/RV2.JPG" width=220 align="left">
-    <!-- <br><br> -->
-    <img src="./docs/assets/RV3.JPG" width=220 align="right">
-    <br><br><br><br><br><br><br><br><br>
+    <img src="./docs/assets/RV2.JPG" align="left" style="display: block; width: 49.123%; margin:1px">
+    <img src="./docs/assets/RV3.JPG" align="right" style="display: block; width: 48%; margin:1px;">
     This was an okay starting place, but it was still quite clearly a general idea, nothing I could actually make and expect to work. I spent a bit more time on SolidWorks, and figuring out what would be reasonable and possible to put together and got to the following design:
     <br><br>
     <img src="./docs/assets/RVbAssembly1.JPG" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
