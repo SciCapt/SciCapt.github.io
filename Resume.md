@@ -18,7 +18,7 @@
       View it below or <a href="./docs/assets/Resume2.pdf">Download a Copy Here</a>
       <br>
     </p>
-      <iframe src="./docs/assets/Resume2.pdf#view=fitH" height="1140px" width="100%"></iframe>
+      <iframe src="./docs/assets/Resume2.pdf" height="1140px" width="100%"></iframe>
   </div>
 
   </body>

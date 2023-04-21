@@ -18,24 +18,23 @@
 
   <h2> Contact and Other Profiles </h2>
   <p>
+    LinkedIn Profile: <a href="https://www.linkedin.com/in/sean-saliga/" target="_blank"> Sean Saliga </a>
+    <br>
     GitHub Profile: <a href="https://github.com/SciCapt" target="_blank"> SciCapt </a>
     <br>
     PyPI Projects: <a href="https://pypi.org/user/SciCapt/" target="_blank"> SciCapt </a>
     <br>
     Email: svs.2k15@gmail.com
     <br>
-    LinkedIn:
+    <!-- LinkedIn:
     <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sean-saliga" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/sean-saliga?trk=profile-badge">Sean Saliga</a>
-    </div>
-    <!-- LinkedIn Profile: <a href="https://www.linkedin.com/in/sean-saliga/" target="_blank"> Sean Saliga </a> -->
-    <!-- <br> -->
+    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="Medium" data-theme="light" data-type="HORIZONTAL" data-vanity="sean-saliga" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/sean-saliga?trk=profile-badge">Sean Saliga</a></div> -->
+    <br>
   </p>
   <br>
   <h1> About Me </h1>
   <p>
-  <img src="./docs/assets/ProfilePic.JPG" class="img-responsive" style="vertical-align:top;margin:0px 15px 10px 5px;max-width: 100%;
-    height: auto;" width="300" align="left">
+  <img src="./docs/assets/ProfilePic.JPG" class="img-responsive" style="vertical-align:top;margin:0px 15px 10px 5px;max-width: 100%; height: auto;" width="300" align="left">
   <h2> Hello! </h2>
     My name is Sean Saliga and I am currently a Physics student at the University of Florida with an expected graduation of May 2023. The skills I mostly take pride in, as mentioned in my <a href="https://scicapt.github.io/Resume">resume</a>, are coding in Python, my understanding of circuits, and my ability to work with other people. If you're interested, please feel free to read below about my interests and hobbies!
     <br><br>

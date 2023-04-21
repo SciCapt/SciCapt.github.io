@@ -27,7 +27,7 @@
   <br><br>
   My hope is that in a few years I will be able to look back on my design and find all the ways it could be improved. I am most certainly proud of it, but I'm confident there are many better ways to do the various tasks of each subcircuit. If curious, here was the design I built (along with my various notes and component list):
   <br>
-    <img src="./docs/assets/Radio1.JPG">
+    <img src="./docs/assets/Radio1.JPG" style="display: block; margin-left: auto; margin-right: auto; width: 90%; margin-top: 10px">
   <br><br>
 </p>
 </div>
