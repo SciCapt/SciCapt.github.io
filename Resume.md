@@ -15,10 +15,10 @@
   <div>
     <h1> Resume: </h1>
     <p>
-      View it below or <a href="./docs/assets/Resume2.pdf">Download a Copy Here</a>
+      View it below or <a href="./docs/assets/Resume3.pdf">Download a Copy Here</a>
       <br>
     </p>
-      <iframe src="./docs/assets/Resume2.pdf" height="1140px" width="100%"></iframe>
+      <iframe src="./docs/assets/Resume3.pdf" height="1140px" width="100%"></iframe>
   </div>
 
   </body>
