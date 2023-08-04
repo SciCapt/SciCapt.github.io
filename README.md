@@ -10,7 +10,7 @@
   <h1> At A Glance </h1> <h2> Resume and Page Navigation </h2>
   
   <p>
-  View my resume on my <a href="https://scicapt.github.io/Resume">Resume Page</a>
+  View my resume on my <a href="https://flowcv.com/resume/0f78qwkpur" target="_blank">Resume Page</a>
   <br>
   To view the projects I reference in my resume, go to the 
   <a href="https://scicapt.github.io/Projects"> Projects Page </a>
