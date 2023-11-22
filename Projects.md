@@ -6,7 +6,7 @@
     <p>
       <a href="https://scicapt.github.io"> Homepage </a>
       <br>
-      <a href="https://scicapt.github.io/Resume">Resume Page</a>
+      <a href="https://flowcv.com/resume/0f78qwkpur" target="_blank">Resume Page</a>
     </p>
   </div>
   
