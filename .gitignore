@@ -1,0 +1,11 @@
+# Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
+#
+
+# Main old files
+/docs/
+/old-site/
+/tests/
+
+# Ignore Jupyter books and text documents
+*.ipynb
+*.txt
