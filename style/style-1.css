@@ -87,6 +87,10 @@ a:active {
   text-decoration: none;
 }
 
+
+/* ==================== */
+/*  Header Page Things  */
+/* ==================== */
 .header{
   margin-top: 0px;
   margin-bottom: 4px;
@@ -163,4 +167,33 @@ span{
   margin-bottom: 2px;
   margin-left: 10px;
   margin-right: 10px;
+}
+
+
+/* ==================== */
+/* Projects Page Things */
+/* ==================== */
+.pheader{
+  font-size: 3vw;
+}
+
+.ptext{
+  font-size: 2.2vw;
+  background-color: rgba(0, 126, 148, 0.65);
+}
+
+.pimg{
+  width: 35vw;
+  border-radius: 10px;
+  max-height: 420px;
+}
+
+.pimgbox{
+  margin: 10px;
+  margin-top: 0;
+}
+
+.pmark1{
+  border-radius: 5px; 
+  block-size: 4.4vh;
 }
